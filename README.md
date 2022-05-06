@@ -1,7 +1,10 @@
 # Curso Alura 
 
 https://cursos.alura.com.br/course/angular-comecando-framework
-Git Utilizado apenas para Portifólio.
+<br> Git Utilizado apenas para Portifólio.
+<br> https://cursos.alura.com.br/user/joaopaulobiesek/course/angular-comecando-framework/certificate
+
+
 
 # ByteBank
 
