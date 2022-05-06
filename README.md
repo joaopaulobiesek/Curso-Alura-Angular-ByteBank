@@ -1,3 +1,8 @@
+# Curso Alura 
+
+https://cursos.alura.com.br/course/angular-comecando-framework
+Git Utilizado apenas para Portifólio.
+
 # ByteBank
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
